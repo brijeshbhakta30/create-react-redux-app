@@ -1,0 +1,51 @@
+{
+  "name": "create-react-redux-app",
+  "version": "0.1.0",
+  "private": false,
+  "author": "Brijesh Bhakta <brijeshbhakta30@gmail.com>",
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "dependencies": {
+    "axios": "0.17.1",
+    "classnames": "2.2.5",
+    "lodash": "4.17.4",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.6",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "react-router-redux": "next",
+    "reactstrap": "5.0.0-alpha.4",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0"
+  },
+  "homepage": "./",
+  "proxy": "http://localhost:4545/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brijeshbhakta30/create-react-redux-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "create react app",
+    "create-react-app",
+    "react redux",
+    "react-redux",
+    "create react redux",
+    "create-react-redux",
+    "create react redux app",
+    "create-react-redux-app",
+    "thunk",
+    "boilerplate",
+    "starter",
+    "es6"
+  ]
+}
