@@ -1,13 +1,3 @@
-## Installation
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-```bash
-npm install
-```
-
-## Get started
-
-```bash
-npm start
-```
-
-This project is built using [create-react-app](https://github.com/facebookincubator/create-react-app).
+Follow the instructions given in the README-CRA.ms file to setup the project.
